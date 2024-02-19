@@ -1,2 +1,11 @@
 * { margin: 0; box-sizing: border-box; font-family: 'Times New Roman', Times, serif;}
 body, html { height: 100%; }
+.hero {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background: linear-gradient(45deg, #010758, #490d61);
+    height: 100%;
+    padding: 20px;
+}
