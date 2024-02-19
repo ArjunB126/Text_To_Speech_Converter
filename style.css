@@ -27,3 +27,4 @@ textarea {
     padding: 10px;
     margin-bottom: 20px;
 }
+textarea::placeholder { padding: 0 10px; font-size: .8rem; color: lightgray; }
