@@ -12,3 +12,5 @@ This project is a simple text-to-speech converter developed using HTML, CSS, and
 ## How It Works
 1. **Initialization**: Retrieves available voices and stores them in an array.
 2. **Voice Selection**: Updates the selected voice based on user choice.
+3. **Text Input**: Users input text into the textarea.
+4. **Speech Synthesis**: Initiates speech synthesis upon clicking the "Listen" button.
