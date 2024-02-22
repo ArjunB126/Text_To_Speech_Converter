@@ -20,3 +20,5 @@ This project is a simple text-to-speech converter developed using HTML, CSS, and
 1. Clone the repository.
 2. Open `index.html` in a web browser.
 3. Input text into the textarea.
+4. Select a voice from the dropdown menu.
+5. Click the " Listen " button to hear the converted speech.
